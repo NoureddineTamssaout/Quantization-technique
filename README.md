@@ -10,7 +10,7 @@ This project explores the Titanic dataset, emphasizing the application of data q
 
 ## **Dataset**
 
-The Titanic dataset is available from [Kaggle's Titanic Competition](https://www.kaggle.com/competitions/titanic/data). Download the dataset and place it in a `data/` folder within this repository.
+The Titanic dataset is available from [Kaggle's Titanic Competition](https://www.kaggle.com/competitions/titanic/data).
 
 ## **Setup**
 
